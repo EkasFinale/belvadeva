@@ -1,0 +1,12 @@
+BELVA & DEVA — CARA PAKAI
+
+1. Ekstrak ZIP. Upload semua file di folder ini ke root repository GitHub Pages yang sama.
+2. Buka situs sekali dengan internet. Setelah service worker aktif, halaman dan gambar tersedia offline.
+3. Android: menu browser > Install app / Tambahkan ke layar utama. iPhone: Safari > Bagikan > Tambahkan ke Layar Utama. Dukungan mengikuti browser.
+4. Audio id-ID tetap mengikuti perangkat dan bisa memerlukan internet.
+5. Cadangkan progres di Sudut Ayah & Bunda > Ekspor semua profil. Impor menggabungkan profil; nama sama diperbarui setelah konfirmasi orang tua.
+6. Progres disimpan tiap jawaban dan saat berpindah halaman. Gunakan Lanjutkan permainan terakhir untuk melanjutkan.
+7. Gerbang hitungan hanya pencegah sentuhan anak, bukan autentikasi keamanan.
+8. Paket tidak memakai pelacak, font eksternal atau server progres.
+
+Pemeriksaan: logika soal/profil/cadangan diuji otomatis. Instal PWA, tampilan perangkat nyata, dan kualitas audio perlu pengujian browser/perangkat.
